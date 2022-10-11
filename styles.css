@@ -55,28 +55,28 @@ h1, h2, h3, h4, p{
     height: 400px;
     border-radius: 20px;
     border: 6px solid white;
-    background-image: url("image/gift.jpg");
+    background-image: url("images/gift.jpg");
     background-size: cover;
 }
 
 #gift-happy:hover{
-    background-image: url("image/happy.gif");
+    background-image: url("images/happy.gif");
 }
 
 #gift-hot:hover{
-    background-image: url("image/hot.gif");
+    background-image: url("images/hot.gif");
 }
 
 #gift-genius:hover{
-    background-image: url("image/genius.gif");
+    background-image: url("images/genius.gif");
 }
 
 #gift-badass:hover{
-    background-image: url("image/badass.gif");
+    background-image: url("images/badass.gif");
 }
 
 #gift-cheers:hover{
-    background-image: url("image/cheers.gif");
+    background-image: url("images/cheers.gif");
 }
 
 #footer{
